@@ -1,0 +1,51 @@
+.nav{
+    background: #fff;
+    min-height: 5rem;
+    box-shadow: 0 1px 4px rgba(0,0,0,.15);
+    align-items: center;
+}
+/*nav brand*/
+.nav_brand{
+    color: #717274;
+    font-weight: 700;
+    padding-right: 0.2rem;
+    padding-bottom: 0.6rem;
+    padding-left: 1.2rem;
+    padding-top: 1.5rem;
+}
+.ham_icon {
+    background-image: url('../icn_menu.png');
+    background-repeat: no-repeat;
+    width: 24px;
+    height: 20px;
+    margin-right: 0.5rem;
+    background-position: 0 -21px;
+}
+/*vertical line*/
+.vertical_line {
+    height: 2.5rem;
+    border-left: 1px solid #ddd;
+    margin-left: 0.5rem;
+}
+
+/*rights icons css*/
+.right_icons a {
+    font-size: .8rem;
+    color: #717274;
+    text-decoration: none;
+    font-weight: 700;
+    padding-right: 0.2rem;
+    padding-bottom: 0.6rem;
+    padding-left: 1.2rem;
+    text-align: center;
+}
+.icon{
+    width: 32px;
+    display: block;
+    margin: 0 auto;
+}
+
+.icon--slack_img {
+    width: 32px;
+    height: 32px;
+}
